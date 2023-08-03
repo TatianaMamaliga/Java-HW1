@@ -1,3 +1,5 @@
+package session2;
+
 import java.util.Scanner;
 // Write a program that asks the user to enter two numbers, performs addition on those numbers, and prints out the result.
 public class SimpleInOut {
