@@ -1,3 +1,5 @@
+package session2;
+
 public class Operations {
     // Write a program that performs various operations (addition, subtraction, multiplication, division, and modulus) on two numbers. The numbers can be hard-coded into the program. Print the result of each operation.
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package session2;
+
 public class UsingVariables {
     //Write a program that defines four different variables (an integer, a double, a character, and a string), assigns them values, and then prints them out.
     public static void main(String[] args) {

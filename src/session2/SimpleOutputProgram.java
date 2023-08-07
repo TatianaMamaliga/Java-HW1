@@ -1,3 +1,5 @@
+package session2;
+
 public class SimpleOutputProgram {
     public static void main(String[] args){
         System.out.println("Tatiana");
