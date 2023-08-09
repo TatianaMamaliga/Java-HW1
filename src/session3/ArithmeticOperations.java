@@ -17,7 +17,5 @@ public class ArithmeticOperations {
         System.out.println("Product: " + product);
         System.out.println("Quotient: " + quotient);
         System.out.println("Reminder: " + reminder);
-
-
     }
 }
