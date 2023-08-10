@@ -11,12 +11,11 @@ public class ArrayListHw {
         listOne.add("France");
         listOne.add("Ecuador");
 
-        // assign listOne to listTwo array;
+        // assign listOne to listTwo array
         listTwo = listOne;
 
         // modify listOne by adding a new element
         listOne.add("Denmark");
-
 
         System.out.println(listOne); // displays 4 array elements added prev
         System.out.println(listTwo); // listTwo array has 4 elements previously added to listOne, thus those are equal, per below:
