@@ -6,9 +6,9 @@ public class IfStatementTempHw {
         int temperature = 30;
         String state;
 
-        if(temperature > 30){
+        if (temperature > 30) {
             state = "Hot";
-        } else if (temperature <= 30 && temperature >= 20){
+        } else if (temperature <= 30 && temperature >= 20) {
             state = "Warm";
         } else {
             state = "Cold";
