@@ -1,4 +1,4 @@
-package session4.Practice;
+package session4.practice;
 
 public class JavaStatements {
 
