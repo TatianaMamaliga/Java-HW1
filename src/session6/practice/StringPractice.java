@@ -1,4 +1,4 @@
-package session6.Practice;
+package session6.practice;
 
 public class StringPractice {
 

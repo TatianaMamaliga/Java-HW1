@@ -1,4 +1,4 @@
-package session5.Practice;
+package session5.practice;
 
 import java.util.Scanner;
 
