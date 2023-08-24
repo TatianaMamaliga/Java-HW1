@@ -114,6 +114,7 @@ public class DiarySystem {
                     System.out.println("Exiting diary");
                     isRunning = false;
                     scanner.close();
+                    break;
                 default:
                     System.out.println("Please select a valid option");
             }
