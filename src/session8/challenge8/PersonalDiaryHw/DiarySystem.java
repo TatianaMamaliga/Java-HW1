@@ -9,11 +9,12 @@ public class DiarySystem {
         System.out.println("Enter the date for diary entry: ");
         Scanner scanner = new Scanner(System.in);
         String newDate = scanner.next();
+        scanner.nextLine();
         if (isValidDate(newDate)) {
             System.out.println("A diary entry for this date already exists.");
         } else {
             System.out.println("Enter the diary entry for: " + newDate);
-            String entry = scanner.next();
+            String entry = scanner.nextLine();
             Diary newEntry = new Diary(newDate, entry);
             diaryEntryList.add(newEntry);
             diaryEntryList.sort(Comparator.comparing(Diary::getDate).reversed());
@@ -27,12 +28,13 @@ public class DiarySystem {
         System.out.println("To edit the diary entry, enter the date: ");
         Scanner scanner = new Scanner(System.in);
         String pastDate = scanner.next();
+        scanner.nextLine();
         int entryIndex = findEntryIndex(pastDate);
         if (entryIndex == -1) {
             System.out.println("No entry found for this date.");
         } else {
             System.out.println("Enter edited diary entry: ");
-            String editedEntry = scanner.next();
+            String editedEntry = scanner.nextLine();
             diaryEntryList.get(entryIndex).setEntry(editedEntry);
             System.out.println("Entry is edited successfully");
         }
