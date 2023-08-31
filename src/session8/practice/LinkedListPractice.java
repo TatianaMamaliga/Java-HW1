@@ -16,6 +16,4 @@ public class LinkedListPractice {
 
         System.out.println(names);
     }
-
-
 }
