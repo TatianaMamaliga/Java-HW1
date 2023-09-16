@@ -2,7 +2,7 @@ package session14.challenge14.linkedList;
 
 import java.util.LinkedList;
 
-public class _LinkedListPractice {
+public class LinkedListPractice {
 
     public static void main(String[] args) {
         LinkedList<String> colorList = new LinkedList<>();

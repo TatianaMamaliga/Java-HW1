@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.TreeSet;
 
-public class _HashSetPractice {
+public class HashSetPractice {
 
     public static void main(String[] args) {
         HashSet<String> plants = new HashSet<>();
