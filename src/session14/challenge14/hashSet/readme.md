@@ -1,0 +1,12 @@
+1. AppendElementToHashSet
+2. IterateThroughHashSet
+3. GetNumberOfElementsInHashSet
+4. EmptyHashSet
+5. TestHashSetIsEmpty
+6. CloneHashSet
+7. ConvertHashSetToArray
+8. ConvertHashSetToTreeSet
+9. ConvertHashSetToList
+10. CompareTwoHashSets
+11. RetainCommonElements
+12. RemoveAllElementsFromHashSet
