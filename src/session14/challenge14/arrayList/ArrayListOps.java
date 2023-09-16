@@ -70,7 +70,7 @@ public class ArrayListOps {
 
         increaseArrayListCapacity(colorList, 20);
 
-        calculateProgress(37);
+        calculateProgress(52);
     }
 
     private static void calculateProgress(double problemsDone) {
