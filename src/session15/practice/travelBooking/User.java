@@ -1,4 +1,4 @@
-package session15.travelBooking;
+package session15.practice.travelBooking;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package session15.practice;
+package session15.practice.equalsAndHashcode;
 
 import java.util.HashSet;
 import java.util.Set;
