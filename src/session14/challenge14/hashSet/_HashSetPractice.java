@@ -11,24 +11,6 @@ public class _HashSetPractice {
         HashSet<String> plants = new HashSet<>();
         HashSet<String> plants1 = new HashSet<>();
 
-        /*
-        1. Spider Plant (Chlorophytum comosum)
-        2. Snake Plant (Sansevieria trifasciata)
-        3. Pothos (Epipremnum aureum)
-        4. Peace Lily (Spathiphyllum)
-        5. Aloe Vera (Aloe barbadensis miller)
-        6. Rubber Plant (Ficus elastica)
-        7. Jade Plant (Crassula ovata)
-        8. ZZ Plant (Zamioculcas zamiifolia)
-        9. Philodendron (Philodendron spp.)
-        10. Monstera Deliciosa (Swiss Cheese Plant)
-        11. Boston Fern (Nephrolepis exaltata)
-        12. Snake Plant (Sansevieria trifasciata)
-        13. African Violet (Saintpaulia)
-        14. Fiddle Leaf Fig (Ficus lyrata)
-        15. Golden Pothos (Epipremnum aureum)
-                 */
-
         AppendElementToHashSet appendEl = new AppendElementToHashSet();
         IterateThroughHashSet iterateHashSetEl = new IterateThroughHashSet();
         GetNumberOfElementsInHashSet getNumberOfEl = new GetNumberOfElementsInHashSet();
