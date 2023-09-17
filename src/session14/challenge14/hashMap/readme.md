@@ -1,0 +1,12 @@
+1. HashMapSetter
+2. MapSizeCounter
+3. MapCopy
+4. MapClearer
+5. MapEmptyChecker
+6. HashMapShallowCopy
+7. MapKeyPresenceTester
+8. MapValuePresenceTester
+9. MapMappingsSet
+10. MapValueGetter
+11. MapKeysSetView
+12. MapValuesCollectionView
